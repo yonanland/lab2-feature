@@ -1,0 +1,2 @@
+Creating a new project called lab2-feature on GitHub
+and clone it to my local machine.
